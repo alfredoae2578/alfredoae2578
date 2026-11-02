@@ -14,6 +14,6 @@ Construyo productos digitales y prototipos que unen diseño, desarrollo y proble
 | [CimaFix](https://github.com/alfredoae2578/cimafix-presentacion) | 2026 | Reportes comunitarios para el campus. |
 | [Ressona](https://github.com/alfredoae2578/resona-presentacion) | 2025 | Concepto de plataforma social para música. |
 
-También participo en retos de análisis y tecnología, como [TEMPO-AIR](https://github.com/alfredoae2578/TEMPO-AIR) y [FutBotMX Visión por Computadora](https://github.com/alfredoae2578/futbotmx-vision-computadora-2026).
+También participo en retos de análisis y tecnología, como [TEMPO-AIR](https://github.com/alfredoae2578/TEMPO-AIR)
 
 Las presentaciones públicas muestran el propósito, el proceso y material visual de cada proyecto. El código y los datos de trabajo de los proyectos privados permanecen en sus repositorios originales.
